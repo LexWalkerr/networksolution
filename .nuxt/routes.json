@@ -1,0 +1,20 @@
+[
+  {
+    "name": "signin",
+    "path": "/signin",
+    "component": "/Users/goodboy/Documents/Crazyyyyyyyy/networksolutions/pages/signin.vue",
+    "chunkName": "pages/signin"
+  },
+  {
+    "name": "success",
+    "path": "/success",
+    "component": "/Users/goodboy/Documents/Crazyyyyyyyy/networksolutions/pages/success.vue",
+    "chunkName": "pages/success"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/goodboy/Documents/Crazyyyyyyyy/networksolutions/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

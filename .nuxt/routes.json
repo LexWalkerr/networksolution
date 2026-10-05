@@ -3,18 +3,21 @@
     "name": "signin",
     "path": "/signin",
     "component": "/Users/goodboy/Documents/Crazyyyyyyyy/networksolutions/pages/signin.vue",
-    "chunkName": "pages/signin"
+    "chunkName": "pages/signin",
+    "_name": "_7731bf98"
   },
   {
     "name": "success",
     "path": "/success",
     "component": "/Users/goodboy/Documents/Crazyyyyyyyy/networksolutions/pages/success.vue",
-    "chunkName": "pages/success"
+    "chunkName": "pages/success",
+    "_name": "_5353c67d"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/goodboy/Documents/Crazyyyyyyyy/networksolutions/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_7232a04c"
   }
 ]

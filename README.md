@@ -1,20 +1,75 @@
-# Nuxt Webmail Login
+# Nuxt Minimal Starter
 
-Nuxt 2 implementation of the supplied Webmail Login screenshot.
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Behavior
+## Setup
 
-1. The first screen shows the Email field and Sign in button.
-2. Enter an email and click Sign in.
-3. The Password field slides down directly below Email.
-4. Enter a password and click Sign in again.
-5. The app routes to `/success`.
-
-## Run
+Make sure to install dependencies:
 
 ```bash
+# npm
 npm install
-npm run dev
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
 ```
 
-Then open http://localhost:3000
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# npm
+npm run dev
+
+# pnpm
+pnpm dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
